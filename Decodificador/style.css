@@ -38,7 +38,7 @@ main{
 	border-radius: 24px;
 	color: #0A3871;
 	margin-left: 90px;
-	margin-top: 20px;
+	margin-top: 10px;
 	padding-left: 20px;
 	position: fixed;
 }	
@@ -75,4 +75,28 @@ main{
 h6{
 	font-size: 15px;
 	font-weight: normal;
+}
+
+.copiar{
+	background: #0A3871;
+	border: none;
+	border-radius: 24px;
+	color: white;
+	font-size: 20px;
+	margin-left: 100px;
+	margin-top: 520px;
+	cursor: pointer;
+}	
+
+footer {
+	text-align: center;
+	background: #4169E1;
+	padding: 40px 0;
+}
+
+.copyright {
+	background: #4169E1;
+	color: white;
+	font-size: 24px;
+	margin: 20px 0 0;
 }
