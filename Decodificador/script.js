@@ -38,14 +38,6 @@ function decriptografar(stringDecriptada){
 	return stringDecriptada;
 }	
 
-function copiarTexto() {
-  var textoCopiado = document.querySelector("#copiado");
-  copiarTexto.select();
-  document.execCommand("copy");
-}
-
-document.querySelector("#copiado").addEventListener("click", copiarTexto);
-
 
 
 
